@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Private Ltd. Ph No: +91-9980923226, +91-9980923216 ,Bengaluru,Karnataka,India</h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center">This is the first practise Github webhook</h1>
+<h1 align="center"> What ever the situation is, what ever the condition is what ever the problems are we are not going to care and our aim is just to NARA CHANDRABABU NAIDU as the CM of Andhra Pradesh and our only slogan is PSYCO POVALI  CYCLE RAVALI</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
